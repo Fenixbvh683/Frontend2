@@ -1,0 +1,158 @@
+/*Color de Fondo de porfolio*/
+body{
+    background-color: rgb(238, 238, 210);
+}
+
+/*Imagen de Fondo de porfolio
+body{
+        background-image: url(../img/banner5.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }*/
+
+/*Color del Logo AP*/
+.letranegra{
+    fiter: invert(1);
+    -webkit-filter: invert(1);
+    -moz-filter: invert(1)
+    }
+    
+    .list-group{
+
+        --bs-list-group-bg:transparen;
+        
+        }  
+
+        .fa-brands.fa-linkedin.fa-2x:hover{
+
+            color: blue;
+        
+        }
+
+        .fa-brands.fa-github.fa-2x:hover{
+
+            color: blueviolet;
+            
+            }
+            
+            .fa-brands.fa-facebook.fa-2x:hover{
+            
+            color: blue;
+            
+            }
+            
+            .fa-sharp.fa-solid.fa-bridge-lock.fa-2x:hover{
+            
+            color: brown;
+            
+            }
+
+           /* section.banner{
+                background-image: url(../img/banner5.png);
+                width: 100%;
+                height: 65vh;
+                position: relative;
+                background-size: cover;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -moz-background-size: cover;
+                -msn-background-size: cover;
+                background-repeat: no-repeat;
+                
+                }*/
+            
+                /*h1.nombre{
+            
+                    padding-top: 10%;
+                    font-size: 4rem;
+            
+                }*/
+            
+                /*.imgperfil{
+                    border-radius: 100%;
+                    
+                    }*/
+            
+                   /* .colorFondo{
+            
+                        color: aquamarine;
+                    }*/
+            
+                    /*footer.bg-black{
+                        width: 100%;
+                        height: 9%;
+                        padding: 0.5rem;
+                        position: fixed;
+                        bottom: 0;
+                    }*/
+            
+            
+            /*.imagenExpe{
+            
+            transition: 400ms;
+            box-shadow: 10px 10px 25px 15px #000;
+            
+            }*/
+            
+                    /*.imagenExpe:hover{
+            
+            opacity: 0.3;
+            
+                    }*/
+            
+                    /*.login{
+            
+                        height: 75vh;
+            
+                    }*/
+            
+                   /* .cuerpoLogin{
+                        margin-top: 10%;
+                    }*/
+            
+                    /*.registro{
+            
+                        height: 75vh;
+            
+                    }*/
+            
+                    /*.perfil{
+                        width: 50%;
+                    }*/
+            
+                    /*.letra{
+            
+                        font-size: 1.5rem;
+                    }*/
+            
+                    /*.link{
+            
+                        text-decoration: none;
+                        color: #000;
+            
+                    }*/
+            
+            /*nav.vertical {
+                float: left;
+                margin-left: 0;
+                margin-top: 1.5;
+                
+            }*/
+            
+            
+                    /*li.vertical {
+                        display: block;
+                        margin: 0;
+                        writing-mode: vertical;
+                        padding: 0.75rem 0;
+                        justify-content: center;
+                        display: flex;
+                        font-size: 1.25rem;
+                      
+                    }*/
+            
+            /*a, a:hover {
+                text-decoration: none;
+                color:#000
+            }*/
+            
